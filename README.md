@@ -56,10 +56,6 @@ smart-medical-appointment-booking-system/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-```
-├── L
-└── .gitignore
-```
 
 ---
 
