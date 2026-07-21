@@ -51,14 +51,14 @@ smart-medical-appointment-booking-system/
 │   └── Project_Report.pdf
 ├── images/
 │   ├── er-diagram.jpeg
+│   └── use-case-diagram.png
 ├── sql/
 │   └── Database.sql
+├── requirements.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
----
-
+```
 ## 🗄️ Database Design
 
 The database was designed using Entity-Relationship (ER) modeling and normalized to Third Normal Form (3NF) to reduce redundancy and maintain data integrity.
